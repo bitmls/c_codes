@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\VS2022 code\文件学习\文件学习\main.c(226,16): warning C4047: “函数”:“FILE *”与“size_t (__cdecl *)(void *,size_t,size_t,FILE *)”的间接级别不同
+C:\Users\Administrator\Desktop\VS2022 code\文件学习\文件学习\main.c(226,11): warning C4024: “feof”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\VS2022 code\文件学习\文件学习\main.c(230,23): warning C4047: “函数”:“FILE *”与“size_t (__cdecl *)(void *,size_t,size_t,FILE *)”的间接级别不同
+C:\Users\Administrator\Desktop\VS2022 code\文件学习\文件学习\main.c(230,18): warning C4024: “ferror”: 形参和实参 1 的类型不同
+  文件学习.vcxproj -> C:\Users\Administrator\Desktop\VS2022 code\文件学习\x64\Debug\文件学习.exe

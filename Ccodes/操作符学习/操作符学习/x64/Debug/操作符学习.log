@@ -1,0 +1,4 @@
+﻿  操作符学习.c
+C:\Users\Administrator\Desktop\VS2022 code\操作符学习\操作符学习\操作符学习.c(101,7): warning C4047: “初始化”:“int *”与“int (*)[10]”的间接级别不同
+C:\Users\Administrator\Desktop\VS2022 code\操作符学习\操作符学习\操作符学习.c(102,8): warning C4047: “初始化”:“char *”与“int (*)[10]”的间接级别不同
+  操作符学习.vcxproj -> C:\Users\Administrator\Desktop\VS2022 code\操作符学习\x64\Debug\操作符学习.exe

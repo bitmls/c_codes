@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\VS2022 code\Ccodes\飞机大战\飞机大战\main.cpp(335,40): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 49 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  飞机大战.vcxproj -> D:\VS2022 code\Ccodes\飞机大战\x64\Release\飞机大战.exe

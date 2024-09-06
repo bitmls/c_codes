@@ -1,0 +1,4 @@
+﻿  test_1.c
+D:\VS2022 code\Ccodes\test_1.c\test_1.c\test_1.c(107,20): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+D:\VS2022 code\Ccodes\test_1.c\test_1.c\test_1.c(132,26): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+  test_1.c.vcxproj -> D:\VS2022 code\Ccodes\test_1.c\x64\Debug\test_1.exe

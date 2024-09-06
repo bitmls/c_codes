@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(73,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(120,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(185,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(195,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(242,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS2022 code\Ccodes\Plants_VS_Zombies\Plants_VS_Zombies\main.cpp(331,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Plants_VS_Zombies.vcxproj -> D:\VS2022 code\Ccodes\Plants_VS_Zombies\x64\Debug\Plants_VS_Zombies.exe

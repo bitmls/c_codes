@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\VS2022 code\字符串函数学习\字符串函数学习\main.c(268,19): warning C4101: “stu4”: 未引用的局部变量
+C:\Users\Administrator\Desktop\VS2022 code\字符串函数学习\字符串函数学习\main.c(268,13): warning C4101: “stu3”: 未引用的局部变量
+  字符串函数学习.vcxproj -> C:\Users\Administrator\Desktop\VS2022 code\字符串函数学习\x64\Debug\字符串函数学习.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS2022 code\Ccodes\最短路径dijkstra（迪杰斯特拉）算法学习\最短路径dijkstra（迪杰斯特拉）算法学习\main.c(101,28): warning C4047: “函数”:“int *”与“int [7][7]”的间接级别不同
+D:\VS2022 code\Ccodes\最短路径dijkstra（迪杰斯特拉）算法学习\最短路径dijkstra（迪杰斯特拉）算法学习\main.c(101,28): warning C4024: “CreateGraph”: 形参和实参 3 的类型不同
+  最短路径dijkstra（迪杰斯特拉）算法学习.vcxproj -> D:\VS2022 code\Ccodes\最短路径dijkstra（迪杰斯特拉）算法学习\x64\Debug\最短路径dijkstra（迪杰斯特拉）算法学习.exe

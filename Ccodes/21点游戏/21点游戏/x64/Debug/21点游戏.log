@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VS2022 code\Ccodes\21点游戏\21点游戏\main.c(89,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS2022 code\Ccodes\21点游戏\21点游戏\main.c(164,2): warning C4013: “Sleep”未定义；假设外部返回 int
+  21点游戏.vcxproj -> D:\VS2022 code\Ccodes\21点游戏\x64\Debug\21点游戏.exe

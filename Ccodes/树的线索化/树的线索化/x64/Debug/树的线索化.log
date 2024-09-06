@@ -1,0 +1,3 @@
+﻿  main.c
+D:\VS2022 code\Ccodes\树的线索化\树的线索化\main.c(20): warning C4716: “CreateTreeNode”: 必须返回一个值
+  树的线索化.vcxproj -> D:\VS2022 code\Ccodes\树的线索化\x64\Debug\树的线索化.exe

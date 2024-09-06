@@ -1,0 +1,7 @@
+﻿  main.c
+D:\VS2022 code\Ccodes\链队列的练习\链队列的练习\main.c(46,8): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+D:\VS2022 code\Ccodes\链队列的练习\链队列的练习\main.c(41,12): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+D:\VS2022 code\Ccodes\链队列的练习\链队列的练习\main.c(54,21): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+D:\VS2022 code\Ccodes\链队列的练习\链队列的练习\main.c(64,16): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+D:\VS2022 code\Ccodes\链队列的练习\链队列的练习\main.c(62,12): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+  链队列的练习.vcxproj -> D:\VS2022 code\Ccodes\链队列的练习\x64\Debug\链队列的练习.exe

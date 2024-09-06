@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VS2022 code\Ccodes\飞机大战\飞机大战\main.cpp(324,29): warning C4018: “>=”: 有符号/无符号不匹配
+  飞机大战.vcxproj -> D:\VS2022 code\Ccodes\飞机大战\x64\Debug\飞机大战.exe

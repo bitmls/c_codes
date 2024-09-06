@@ -1,0 +1,6 @@
+﻿  题目练习.c
+D:\VS2022 code\Ccodes\题目练习\题目练习\题目练习.c(260,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS2022 code\Ccodes\题目练习\题目练习\题目练习.c(279,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS2022 code\Ccodes\题目练习\题目练习\题目练习.c(283,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS2022 code\Ccodes\题目练习\题目练习\题目练习.c(287,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  题目练习.vcxproj -> D:\VS2022 code\Ccodes\题目练习\x64\Debug\题目练习.exe
