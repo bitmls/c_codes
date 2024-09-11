@@ -1,4 +1,0 @@
-﻿  main.c
-D:\VS2022 code\Ccodes\最小生成树kruskal（克鲁斯卡尔）算法\最小生成树kruskal（克鲁斯卡尔）算法\main.c(110,27): warning C4047: “函数”:“int *”与“int [6][6]”的间接级别不同
-D:\VS2022 code\Ccodes\最小生成树kruskal（克鲁斯卡尔）算法\最小生成树kruskal（克鲁斯卡尔）算法\main.c(110,27): warning C4024: “CreateGraph”: 形参和实参 3 的类型不同
-  最小生成树kruskal（克鲁斯卡尔）算法.vcxproj -> D:\VS2022 code\Ccodes\最小生成树kruskal（克鲁斯卡尔）算法\x64\Debug\最小生成树kruskal（克鲁斯卡尔）算法.exe

@@ -1,8 +1,0 @@
-﻿  main.c
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(35,16): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(45,26): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(49,25): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(63,16): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(74,26): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-D:\VS2022 code\Ccodes\test_24_4_10\test_24_4_10\main.c(78,25): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-  test_24_4_10.vcxproj -> D:\VS2022 code\Ccodes\test_24_4_10\x64\Debug\test_24_4_10.exe

@@ -1,5 +1,0 @@
-﻿  main.c
-D:\VS2022 code\Ccodes\Test3\Test3\main.c(47,42): warning C4244: “return”: 从“short”转换到“unsigned char”，可能丢失数据
-D:\VS2022 code\Ccodes\Test3\Test3\main.c(48,43): warning C4244: “return”: 从“short”转换到“unsigned char”，可能丢失数据
-D:\VS2022 code\Ccodes\Test3\Test3\main.c(72,25): warning C4244: “=”: 从“short”转换到“unsigned char”，可能丢失数据
-  Test3.vcxproj -> D:\VS2022 code\Ccodes\Test3\x64\Debug\Test3.exe

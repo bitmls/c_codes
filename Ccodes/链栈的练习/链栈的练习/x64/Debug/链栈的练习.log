@@ -1,4 +1,0 @@
-﻿  main.c
-D:\VS2022 code\Ccodes\链栈的练习\链栈的练习\main.c(34,17): warning C4133: “=”: 从“StackNode *”到“LinkStack *”的类型不兼容
-D:\VS2022 code\Ccodes\链栈的练习\链栈的练习\main.c(47,13): warning C4133: “=”: 从“LinkStack *”到“StackNode *”的类型不兼容
-  链栈的练习.vcxproj -> D:\VS2022 code\Ccodes\链栈的练习\x64\Debug\链栈的练习.exe

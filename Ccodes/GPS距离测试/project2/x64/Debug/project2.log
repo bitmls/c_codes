@@ -1,3 +1,0 @@
-﻿  test2.c
-C:\Users\Administrator\Desktop\VS2022 code\project2\project2\test2.c(119,26): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
-  project2.vcxproj -> C:\Users\Administrator\Desktop\VS2022 code\project2\x64\Debug\project2.exe
